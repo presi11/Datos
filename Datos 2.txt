@@ -1,4 +1,4 @@
-Asignatura	Genero	Edad	Repeticiones	Masa corporal	Estatura	Carrera	Materias matriculadas	Zona.residencia	Estrato
+Asignaturas	Genero	Edad	Repeticiones	Masa corporal	Estatura	Carrera	Materias matriculadas	Zona.residencia	Estrato
 Estadistica.I	Femenino	22	1.vez	51	1.57	Contaduria	4	Rural	4
 Estadistica.I	Masculino	26	Ninguna	75	1.65	Comercio.Ext	6	Urbano	3
 Estadistica.I	Femenino	22	1.vez	60	1.6	Comercio.Ext	7	Urbano	2
